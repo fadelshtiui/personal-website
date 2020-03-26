@@ -1,0 +1,8 @@
+{
+     "appService.zipIgnorePattern": [
+          "node_modules{,/**}",
+          ".vscode{,/**}"
+     ],
+     "appService.defaultWebAppToDeploy": "/subscriptions/e263d110-3345-4fa9-ae49-3c41df01d61f/resourceGroups/web-app/providers/Microsoft.Web/sites/fadelshtiui",
+     "appService.deploySubpath": ""
+}
